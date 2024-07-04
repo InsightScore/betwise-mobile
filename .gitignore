@@ -1,0 +1,20 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Docker
+docker-compose.override.yml
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
